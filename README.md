@@ -36,7 +36,7 @@
 
 <h3 align="left">Seondery</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu logoColor=ffffff" alt="Ubuntu 22.04" /><br>
+<img src="https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff" alt="Ubuntu 22.04" /><br>
 &#9889; DELL Vostro 15<br>
 &#9889; intel i3 7020U @2.2 GHz<br>
 &#9889; 4 GB DDR4 RAM<br>
