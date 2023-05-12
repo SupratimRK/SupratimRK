@@ -9,7 +9,7 @@
 
 - 🤝**Eelectronics** enthusiast
 
-- 👨‍💻 Got some time? Visit [portfolio.supratim.tech](https://portfolio.supratim.tech)
+- 👨‍💻 Got some time? Visit [https://portfolio.supratim.tech](https://portfolio.supratim.tech)
 
 - 💬 Mother Tongue **Bengali**
 
