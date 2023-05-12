@@ -1,13 +1,13 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 <h1 align="center">Hi 👋, I'm Supratim Mondal</h1>
-<h3 align="center">A passionate frontend developer/learner from Sainthia, India</h3>
+<h3 align="center">An ECE student from Sainthia, India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 - 🧑‍🎓 I’m currently studing at **Dr. B.C. Roy Engineering College (ECE)**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 Lite **Gamer**, Hard **Dreamer** 
 
-- 🤝 I’m looking for help with **NodeJS**
+- 🤝**Eelectronics** enthusiast
 
 - 👨‍💻 All of my projects are available at [supratimx.netlify.app](supratimx.netlify.app)
 
