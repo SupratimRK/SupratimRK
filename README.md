@@ -26,8 +26,8 @@
 
 <h2 align="left">My Devices</h2>
 <h3 align="left">Primary</h3>
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)]
 <p align="left">
+[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)]
 - ASUS ROG STRIX G15 <br>
 - Ryzen 7 4800H @3.8 GHz<br>
 - GTX 1650 4GB<br>
