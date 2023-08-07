@@ -31,7 +31,7 @@
 &#9889; ASUS ROG STRIX G15 <br>
 &#9889; Ryzen 7 4800H @3.8 GHz<br>
 &#9889; GTX 1650 4GB<br>
-&#9889; 16 GB DDR4 RAM<br>
+&#9889; 24 GB DDR4 RAM<br>
 &#9889; 512 GB NVMe SSD<br>
 
 <h3 align="left">Seondery</h3>
