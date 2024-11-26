@@ -27,7 +27,7 @@
 <h2 align="left">My Devices</h2>
 <h3 align="left">Primary</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff" alt="css3"/> <br>
+<img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows 11"/> <br>
 &#9889; ASUS ROG STRIX G15 <br>
 &#9889; Ryzen 7 4800H @3.8 GHz<br>
 &#9889; GTX 1650 4GB<br>
