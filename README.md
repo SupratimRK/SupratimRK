@@ -9,11 +9,11 @@
 
 - 🤝**Eelectronics** enthusiast
 
-- 👨‍💻 Got some time? Visit [https://portfolio.supratim.tech](https://portfolio.supratim.tech)
+- 👨‍💻 Got some time? Visit [https://supratimx.netlify.app](https://supratimx.netlify.app)
 
 - 💬 Mother Tongue **Bengali**
 
-- 📫 You can reach me on **im@supratim.tech**
+- 📫 You can reach me on **supratimrk@outlook.com**
 
 - ⚡ Fun fact **Let everyone think that you are studying, and surprise them by failing.**
 
