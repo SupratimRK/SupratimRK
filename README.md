@@ -9,7 +9,7 @@
 
 - 🤝**Eelectronics** enthusiast
 
-- 👨‍💻 Got some time? Visit [https://supratimx.netlify.app](https://supratimx.netlify.app)
+- 👨‍💻 Got some time? Visit [https://supratim.netlify.app](https://supratim.netlify.app)
 
 - 💬 Mother Tongue **Bengali**
 
