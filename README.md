@@ -74,8 +74,8 @@ funFact: Some people dream with their eyes closed. I do it with a soldering iron
 - 🎨 Design graphics and videos for fun. I mean, who doesn’t love a good meme?
 - 📚 Write LaTeX reports that are more aesthetic than my life choices. (IYKYK👀)
 - 🧑‍💻 Build **custom React apps** for event certificate generation. Because why not?
-- 🛠️ Fix family tech issues like a pro. (I’m basically the Electrician guy of my house.)
 - ☕ Sips tea, and thought about future, while keeping the soldering iron turned on. (IYKYK👀)
+- 🛠️ Fix family tech issues like a pro. (I’m basically the Electrician guy of my house.)
 - 👨‍🔧 Serve as **family tech support**:  
   “Maa ar phone ar IMEI ura gacha” → fixed  
   “Baba ar laptop slow cholcha” → formatted  
@@ -111,7 +111,7 @@ funFact: Some people dream with their eyes closed. I do it with a soldering iron
 
 - 💳 **UPI Credit Card Bill Payment System**  
   A system to pay credit card bill via UPI payments.
-  (Because who needs banks?)
+  (Because who needs netbanking?)
 
 - 🖥️ **Custom React Web Apps**  
   Built a few web apps for fun. (And to avoid studying.)
@@ -194,8 +194,6 @@ funFact: Some people dream with their eyes closed. I do it with a soldering iron
 - 🧠 **RAM**: 4 GB DDR4
 - 💾 **Storage**: 120 GB SATA SSD
 - 🐧 **OS**: Ubuntu 22.04 (Yes, it’s still kicking)
-
----
 
 #### 📲 **Samsung Galaxy S23 (a.k.a. Pocket Rocket)**
 - 🧠 **Processor**: Snapdragon 8 Gen 2 (For Galaxy)
