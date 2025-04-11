@@ -36,7 +36,7 @@
 
 ```yaml
 name: Supratim Mondal
-codeName: The Guy Who Can Fix Circuits and Deploy React Apps
+codeName: Cha Lover
 from: Sainthia, India
 college: Dr. B. C. Roy Engineering College (Tier 69)
 languages:
