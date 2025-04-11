@@ -218,10 +218,11 @@ Wanna collaborate on a cool project? Need help with your PCB? Just wanna rant ab
 - 🧑‍💻 **GitHub**: [@supratimrk](https://github.com/supratimrk)  
   _Lurking in dark mode, pushing commits and breaking builds._
 
-> 🧋 P.S. If you bring chai, I’ll fix your bugs faster. If it’s *masala chai*, I might even write your resume. 😌
+ >🧋 P.S. If you bring chai, I’ll fix your bugs faster. If it’s *masala chai*, I might even write your resume. 😌
+
 ---
 
-🙅‍♂️ Where Not to Find Me
+### 🙅‍♂️ Where Not to Find Me
 
 -   ❌ Facebook / Instagram: Nah fam, I skipped the lockdown-kid starter pack.
 I prefer fixing circuits over flexing selfies.
