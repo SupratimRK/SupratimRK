@@ -109,7 +109,7 @@ funFact: Some people dream with their eyes closed. I do it with a soldering iron
 - 📦 **Custom React Certificate Generator**  
   Firebase-auth + Apps Script magic for event certificate automation.
 
-- 💳 **UPI Credit Card Bill Payment System**  
+- 💳 **UPI Credit Card Bill Payment System** ([Repo](https://github.com/SupratimRK/Credit-Card-Bill-Payments) / [Live Demo](https://cc-bill.netlify.app))  
   A system to pay credit card bill via UPI payments.
   (Because who needs netbanking?)
 
