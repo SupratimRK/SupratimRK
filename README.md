@@ -100,11 +100,12 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,php,html,css,react,nodejs,firebase,mysql" />
 
 ### ⚡ Electronics & Hardware
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=electronics&logoColor=white" />
-<img src="https://img.shields.io/badge/Proteus-1C7EEA?style=for-the-badge&logo=circuitverse&logoColor=white" />
-<img src="https://img.shields.io/badge/Oscilloscope-FF6B35?style=for-the-badge&logo=waveform&logoColor=white" />
-<img src="https://img.shields.io/badge/Multimeter-00D4AA?style=for-the-badge&logo=instrument&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+<img src="https://img.shields.io/badge/Proteus-1C7EEA?style=for-the-badge&logo=proteus&logoColor=white" />
+<img src="https://img.shields.io/badge/Oscilloscope-FF6B35?style=for-the-badge&logo=oscilloscope&logoColor=white" />
+<img src="https://img.shields.io/badge/Multimeter-00D4AA?style=for-the-badge&logo=multimeter&logoColor=white" />
 <img src="https://img.shields.io/badge/Soldering%20Iron-E74C3C?style=for-the-badge&logo=fire&logoColor=white" />
 
 ### 🎨 Design & Tools
