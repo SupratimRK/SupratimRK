@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Modern Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=venom&theme=dracula&height=300&section=header&text=Supratim%20Mondal&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Electronics%20•%20Code%20•%20Chai%20•%20Chaos&descAlignY=55&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=dracula&height=300&section=header&text=Supratim%20Mondal&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Electronics%20•%20Code%20•%20Chai%20•%20Chaos&descAlignY=55&descSize=18" alt="header"/>
 
 <!-- Professional Title with Icons -->
 <h2>
