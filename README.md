@@ -1,7 +1,7 @@
 # Supratim Mondal
 
 Electronics Engineer & Full-Stack Developer  
-Sainthia / Durgapur, India | mail@supratim.me | [Website](https://supratim.me)
+Sainthia / Durgapur, India | mail@supratim.qzz.io | [Website](https://supratim.qzz.io)
 
 ---
 
@@ -48,5 +48,5 @@ Final-year B.Tech student in ECE at Dr. B. C. Roy Engineering College (batch 202
 ## Contact
 
 - [Website](https://supratim.qzz.io)
-- mail@supratim.qzz.io supratimrk@outlook.com  
+- mail@supratim.qzz.io | supratimrk@outlook.com  
 - [GitHub](https://github.com/supratimrk) | [Twitter](https://twitter.com/supratimrk)
