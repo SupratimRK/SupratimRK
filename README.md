@@ -47,6 +47,6 @@ Final-year B.Tech student in ECE at Dr. B. C. Roy Engineering College (batch 202
 
 ## Contact
 
-- [Website](https://supratim.me)
-- mail@supratim.me • +91 95315 33155  
+- [Website](https://supratim.qzz.io)
+- mail@supratim.qzz.io supratimrk@outlook.com  
 - [GitHub](https://github.com/supratimrk) | [Twitter](https://twitter.com/supratimrk)
