@@ -115,7 +115,7 @@ flowchart LR
 
 <p align="left">
   <a href="mailto:mail@supratim.qzz.io"><img src="https://img.icons8.com/?id=LPcVDft9Isqt&format=png&size=48" width="32" alt="Email"/></a>
-  <a href="mailto:supratimrk@outlook.com"><img src="https://img.icons8.com/?id=LPcVDft9Isqt&format=png&size=48" width="32" alt="Outlook"/></a>
+  <a href="mailto:supratimrk@outlook.com"><img src="https://img.icons8.com/?id=ut6gQeo5pNqf&format=png&size=48" width="32" alt="Outlook"/></a>
   <a href="https://supratim.qzz.io"><img src="https://img.icons8.com/?id=VJz2Ob51dvZJ&format=png&size=48" width="32" alt="Website"/></a>
   <a href="https://github.com/supratimrk"><img src="https://img.icons8.com/?id=AZOZNnY73haj&format=png&size=48" width="32" alt="GitHub"/></a>
   <a href="https://twitter.com/supratimrk"><img src="https://img.icons8.com/?id=yoQabS8l0qpr&format=png&size=48" width="32" alt="X"/></a>
